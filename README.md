@@ -1,0 +1,1 @@
+This is a model of a clock in CAD. There are .STEP, .STL, and .GLB/.GLTF files for the same model.
